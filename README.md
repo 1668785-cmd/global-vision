@@ -1,2 +1,7 @@
 # global-vision
 Analytics Innovation &amp; Version Control – Bridging the Implementation Gap
+Project Overview-This project proposes a new situational performance metric that identifies NBA players who elevate their shot quality and efficiency in high‑pressure moments by analyzing shot charts, game stats, and situational performance indicators.
+Decision-Making Problem-NBA coaches and front offices frequently face decisions about late‑game lineups, play‑calling, and roster construction. This metric supports strategic decisions by identifying players who are not just high scorers, but high‑leverage performers.
+Proposed Analytics Approach-The analytical approach would use expected shot value models, situational clustering, and efficiency differentials to identify players who outperform expectations in high‑pressure contexts. 
+Use by Decision Makers-For coaches, this tool informs play‑calling and rotation decisions during close games. For executives, it supports contract negotiations, scouting, and trade evaluations by quantifying a player’s situational value beyond box‑score averages.
+Connection to Chapter 7-This idea is currently in the creative phase of innovation. The concept is clearly defined, and its potential value to decision‑makers is articulated, but no prototype or early model has been built yet. According to Alamar (2024), the creative phase involves identifying a meaningful decision problem and proposing an analytics solution that could improve organizational decision‑making. 
